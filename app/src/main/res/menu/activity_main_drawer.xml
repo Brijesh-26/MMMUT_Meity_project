@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+    >
+
+<!--    <group android:checkableBehavior="single">-->
+<!--        <item-->
+<!--            android:id="@+id/nav_home"-->
+<!--            android:icon="@drawable/ic_menu_camera"-->
+<!--            android:title="@string/menu_home" />-->
+<!--        <item-->
+<!--            android:id="@+id/nav_gallery"-->
+<!--            android:icon="@drawable/ic_menu_gallery"-->
+<!--            android:title="@string/menu_gallery" />-->
+<!--        <item-->
+<!--            android:id="@+id/nav_slideshow"-->
+<!--            android:icon="@drawable/ic_menu_slideshow"-->
+<!--            android:title="@string/menu_slideshow" />-->
+<!--    </group>-->
+
+    <item android:title="फसल सुरक्षा और निदान"
+          android:icon="@mipmap/plant_round">
+        <menu>
+
+            <item android:id="@+id/item11"
+
+                android:title="रोगों का पता लगाना और उनके बारे में जानकारी "/>
+
+            <item android:id="@+id/item12"
+                android:title="खरपतवार की पहचान"/>
+
+            <item android:id="@+id/item13"
+                android:title="मिटटी और पौधे की जानकारी "/>
+
+        </menu>
+
+
+    </item>
+
+    <item android:title="फसल पोषण और उर्वरीकरण "
+          android:icon="@mipmap/plant_round">
+        <menu>
+
+            <item android:id="@+id/item21"
+                android:title="फसल पोषण और निगरानी"/>
+
+            <item android:id="@+id/item22"
+                android:title="छिड़काव प्रबधन "/>
+
+            <item android:id="@+id/item23"
+                android:title="उर्वरीकरण आवेदन "/>
+
+        </menu>
+
+
+    </item>
+</menu>

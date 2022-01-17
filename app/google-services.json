@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "20951305616",
+    "project_id": "mmmut-meity-project",
+    "storage_bucket": "mmmut-meity-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20951305616:android:51b7ce138f617004b43715",
+        "android_client_info": {
+          "package_name": "com.codewithharry.mmmutmeityproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20951305616-ovnaq6vlm2minjkj1m5dpqsq5afumr42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6MgEMHKZX6cyUkC3O2hPICiMdSwpvEGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20951305616-ovnaq6vlm2minjkj1m5dpqsq5afumr42.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
